@@ -96,7 +96,6 @@ AI            SYSTEMS              SECURITY                CLOUD
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=reyansh7&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=EF4444&icon_color=B91C1C&text_color=FFFFFF" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=reyansh7&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" height="165" alt="GitHub streak" />
 
 </div>
 
