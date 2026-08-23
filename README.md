@@ -1,16 +1,31 @@
-## Hi there 👋
-
 <!--
-**reyansh7/reyansh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║
+██████╔╝█████╗   ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║
+██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║
+██║  ██║███████╗   ██║   ██║  ██║██║ ╚████║███████║██║  ██║
+╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 -->
+
+<div align="center">
+
+# 🔴 REYANSH IYER
+
+### `AI SYSTEMS • SOFTWARE ENGINEERING • CYBERSECURITY • CLOUD`
+
+**Building intelligent systems, developer tools, and infrastructure.**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reyansh7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+<br/>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   BUILDING SOFTWARE THAT IS INTELLIGENT, SECURE & SCALABLE  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
