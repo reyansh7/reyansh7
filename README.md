@@ -1,16 +1,12 @@
 <div align="center">
 
-# 🔴 REYANSH IYER
-
-### AI SYSTEMS • SOFTWARE ENGINEERING • CYBERSECURITY • CLOUD
-
-**Building intelligent systems, developer tools & scalable infrastructure.**
+<img src="./assets/hero-dark.svg" width="100%" alt="Reyansh Iyer — AI Systems, Software Engineering, Cybersecurity, Cloud" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/reyansh7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-B91C1C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reyanshiyerportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-991B1B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyansh-iyer-300143334/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Local+AI+agents+%26+multimodal+model+orchestration;Execution-trace+visualization+engines;Computer+vision+for+real-world+inventory+systems;Turning+ideas+into+systems%2C+not+just+demos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Local+AI+agents+%26+multimodal+model+orchestration;Execution-trace+visualization+engines;Computer+vision+for+real-world+inventory+systems;Turning+ideas+into+systems%2C+not+just+demos)](https://git.io/typing-svg)
 
 </div>
 
