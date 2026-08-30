@@ -27,7 +27,7 @@ My long-term direction sits at the intersection of **AI + Systems + Security + C
 ### 🤖 Immortality
 **A local, capability-routed AI agent**
 
-A personal AI agent built around a reasoning core that routes tasks to dedicated language, vision, audio and data models rather than one monolithic pipeline — plan → tool execution → verification → memory, running locally.
+A personal AI agent built around a reasoning core that routes tasks to dedicated language, vision, audio and data models rather than one monolithic pipeline - plan → tool execution → verification → memory, running locally.
 
 `Python` `LLMs` `AI Agents` `Local Inference` `Tool Use`
 
@@ -38,7 +38,7 @@ A personal AI agent built around a reasoning core that routes tasks to dedicated
 ### 🧠 AlgoVerse
 **An execution-trace visualization engine**
 
-Not a canned algorithm demo — code runs through language SDKs that emit a language-independent Trace format, replayed frame-by-frame in a Next.js Trace Player with variables, timeline and code highlighting in sync.
+Not a canned algorithm demo ,code runs through language SDKs that emit a language-independent Trace format, replayed frame-by-frame in a Next.js Trace Player with variables, timeline and code highlighting in sync.
 
 `TypeScript` `Next.js` `Python SDK` `Algorithms` `Data Structures`
 
@@ -69,7 +69,7 @@ A full-stack YOLO object-detection application trained on 15,000+ images that co
 
 ---
 
-## 🔐 Cybersecurity & ☁️ Cloud — Where I'm Headed
+## 🔐 Cybersecurity & ☁️ Cloud is where i'm headed currently
 
 I'm **exploring and building toward** cybersecurity and cloud engineering, not claiming expertise I don't have yet. The clearest evidence so far:
 
