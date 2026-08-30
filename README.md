@@ -18,7 +18,7 @@ I'm a **Computer Engineering student and software developer** who builds intelli
 
 `AI/ML` · `LLMs` · `AI Agents` · `Computer Vision` · `Systems` · `Cybersecurity` · `Cloud Computing`
 
-My long-term direction sits at the intersection of **AI + Systems + Security + Cloud** — I don't want to just ship features on top of models, I want to understand what's running them.
+My long-term direction sits at the intersection of **AI + Systems + Security + Cloud**. I don't want to just ship features on top of models, I want to understand what's running them.
 
 ---
 
