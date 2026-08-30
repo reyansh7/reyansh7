@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Engineering student and software developer** who builds intelligent, secure and scalable systems — end to end, from model orchestration to the infrastructure underneath.
+I'm a **Computer Engineering student and software developer** who builds intelligent, secure and scalable systems - end to end, from model orchestration to the infrastructure underneath.
 
 `AI/ML` · `LLMs` · `AI Agents` · `Computer Vision` · `Systems` · `Cybersecurity` · `Cloud Computing`
 
