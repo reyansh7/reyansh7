@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a **Computer Engineering student and software developer** who builds intelligent, secure and scalable systems - end to end, from model orchestration to the infrastructure underneath.
 
@@ -22,9 +22,9 @@ My long-term direction sits at the intersection of **AI + Systems + Security + C
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 Immortality
+### Immortality
 **A local, capability-routed AI agent**
 
 A personal AI agent built around a reasoning core that routes tasks to dedicated language, vision, audio and data models rather than one monolithic pipeline - plan → tool execution → verification → memory, running locally.
@@ -35,7 +35,7 @@ A personal AI agent built around a reasoning core that routes tasks to dedicated
 
 ---
 
-### 🧠 AlgoVerse
+### AlgoVerse
 **An execution-trace visualization engine**
 
 Not a canned algorithm demo ,code runs through language SDKs that emit a language-independent Trace format, replayed frame-by-frame in a Next.js Trace Player with variables, timeline and code highlighting in sync.
@@ -46,7 +46,7 @@ Not a canned algorithm demo ,code runs through language SDKs that emit a languag
 
 ---
 
-### 👁️ Inventory Verification
+### Inventory Verification
 **Computer vision for warehouse auditing**
 
 A full-stack YOLO object-detection application trained on 15,000+ images that counts boxes and pallets from photos or video, cross-checked against ERP data for verification.
@@ -69,7 +69,7 @@ A full-stack YOLO object-detection application trained on 15,000+ images that co
 
 ---
 
-## 🔐 Cybersecurity & ☁️ Cloud is where i'm headed currently
+## Cybersecurity & ☁️ Cloud is where i'm headed currently
 
 I'm **exploring and building toward** cybersecurity and cloud engineering, not claiming expertise I don't have yet. The clearest evidence so far:
 
@@ -79,7 +79,7 @@ I'm **exploring and building toward** cybersecurity and cloud engineering, not c
 
 ---
 
-## 🧭 Currently Exploring
+## Currently Exploring
 
 ```
 AI            SYSTEMS              SECURITY                CLOUD
@@ -91,7 +91,7 @@ AI            SYSTEMS              SECURITY                CLOUD
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
