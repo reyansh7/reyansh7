@@ -57,7 +57,7 @@ A full-stack YOLO object-detection application trained on 15,000+ images that co
 
 ---
 
-## ⚙️ Skills
+## Skills
 
 | | |
 |---|---|
@@ -69,7 +69,7 @@ A full-stack YOLO object-detection application trained on 15,000+ images that co
 
 ---
 
-## Cybersecurity & ☁️ Cloud is where i'm headed currently
+## Cybersecurity & Cloud is where i'm headed currently
 
 I'm **exploring and building toward** cybersecurity and cloud engineering, not claiming expertise I don't have yet. The clearest evidence so far:
 
