@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>GitHub Profile README Preview</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown-dark.min.css" />
+  <style>
+    html, body {
+      margin: 0;
+      background: #0d1117;
+    }
+    .page {
+      max-width: 1012px;
+      margin: 0 auto;
+      padding: 40px 32px 80px;
+    }
+    .markdown-body {
+      background: #0d1117;
+      color: #c9d1d9;
+    }
+    .markdown-body table td,
+    .markdown-body table th {
+      background: #0d1117;
+      border-color: #30363d;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <article id="content" class="markdown-body"></article>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    marked.setOptions({ gfm: true, breaks: false });
+    fetch("./README.md")
+      .then((r) => r.text())
+      .then((md) => {
+        document.getElementById("content").innerHTML = marked.parse(md);
+      });
+  </script>
+</body>
+</html>
